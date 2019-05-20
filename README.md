@@ -24,7 +24,7 @@
   - [Publicação](#publica%C3%A7%C3%A3o)
 - [Contribuição](#contribui%C3%A7%C3%A3o)
   <!-- - [Licença](#licen%C3%A7a) -->
-- [Contato](#contato)
+- [Sobre](#contato)
 
 <!-- ABOUT THE PROJECT -->
 
@@ -114,7 +114,7 @@ Serão explicados os arquivos e diretórios na seção de [Edição](#edição).
 1. Para instalar e utilizar esse template o processo é bem simples, basta criar um projeto novo utilizando o comando:
 
 ```sh
-react-native init AwesomeExample --template rocketseat-basic
+react-native init AwesomeExample --template frintezza-basic
 ```
 
 2. Depois do projeto criado você pode deletar o arquivo `App.js` da raiz, pois o arquivo `index.js` agora aponta para a pasta **src**.
@@ -259,11 +259,9 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações. -->
 
 <!-- CONTACT -->
 
-## Contato
+## Sobre @Dev
 
 Follow me on Twitter: [@samuelmataraso](https://twitter.com/samuelmataraso)
 
 <a href="https://twitter.com/samuelmataraso" target="_blank">
 <img src="https://twitter.com/samuelmataraso/profile_image?size=original" height="100" /></a>
-
-**samuelmataraso@gmail.com**
