@@ -24,7 +24,7 @@
   - [Publicação](#publica%C3%A7%C3%A3o)
 - [Contribuição](#contribui%C3%A7%C3%A3o)
   <!-- - [Licença](#licen%C3%A7a) -->
-- [Sobre](#contato)
+- [Sobre](#sobre)
 
 <!-- ABOUT THE PROJECT -->
 
@@ -259,7 +259,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações. -->
 
 <!-- CONTACT -->
 
-## Sobre @Dev
+## Sobre
 
 Follow me on Twitter: [@samuelmataraso](https://twitter.com/samuelmataraso)
 
