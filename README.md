@@ -32,7 +32,7 @@
 
 Este projeto visa a criação de um template que possa ser utilizado no momento de criação de projetos utilizando React Native, visto que o processo de instalação e configuração das libs no início de um projeto podem gerar certa complexidade e muitas vezes até erros que atrasam o processo, atrapalhando assim o fluxo de desenvolvimento.
 
-Esse template foi baseado no [Template Rocketseat Basic](https://github.com/Rocketseat/react-native-template-rocketseat-basic#edi%C3%A7%C3%A3o) da Rocketseat.
+Esse template foi baseado no [Template Rocketseat Basic](https://github.com/Rocketseat/react-native-template-rocketseat-basic) da Rocketseat.
 
 ### Feito Com
 
