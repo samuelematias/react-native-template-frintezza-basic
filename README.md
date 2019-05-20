@@ -79,7 +79,10 @@ A estrutura de arquivos está da seguinte maneira:
 frintezza-basic
 ├── src/
 │   ├── assets/
+│   │   └── frintezza.js
 │   ├── components/
+│   │   └── Header/
+│   │       └── index.js
 │   ├── config/
 │   │   └── ReactotronConfig.js
 │   ├── pages/
