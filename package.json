@@ -1,0 +1,21 @@
+{
+  "name": "react-native-template-frintezza-basic",
+  "version": "0.1.0",
+  "description": "Template para projetos em React Native, com Estrutura de Pastas customizada, Estilos Globais, ESLint + Prettier + Babel Plugin Root Import, React Navigation, Reactotron e Axios configurados.",
+  "keywords": [
+    "react-native",
+    "template",
+    "eslint",
+    "react-navigation",
+    "reactotron",
+    "babel-root-import",
+    "axios"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelmataraso/react-native-template-frintezza-basic.git"
+  },
+  "homepage": "https://github.com/samuelmataraso/react-native-template-frintezza-basic#readme",
+  "author": "Samuel Mataraso <samuelmataraso@gmail.com>",
+  "license": "MIT"
+}

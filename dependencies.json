@@ -1,0 +1,9 @@
+{
+  "axios": "latest",
+  "prop-types": "latest",
+  "react-native-gesture-handler": "latest",
+  "react-navigation": "latest",
+  "react-native-device-info": "latest",
+  "reactotron-react-native": "latest",
+  "styled-components": "latest"
+}
