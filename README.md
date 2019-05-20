@@ -41,7 +41,7 @@ Abaixo segue o que foi utilizado na criação deste template:
 - [React Native](http://facebook.github.io/react-native/) - O React Native é um framework que permite o desenvolvimento de aplicações mobile usando Javascript e React;
 - [React Navigation](https://reactnavigation.org/) - O React Navigation surgiu da necessidade comunidade do React Native de uma navegação de forma fácil de se usar, e escrita toda em Javascript;
 - [React Native Gesture Handler](https://kmagiera.github.io/react-native-gesture-handler/) - API declarativa que permite a manipulação de toques e gestos no React Native;
-- [React Native Device Info](https://github.com/react-native-community/react-native-device-info) - API declarativa que permite a acessar informações sobre o Device;
+- [React Native Device Info](https://github.com/react-native-community/react-native-device-info) - API que permite a acessar informações sobre o Device;
 - [Axios](https://github.com/axios/axios) - O Axios é um cliente HTTP baseado em Promises para Browser e NodeJS;
 - [Prop Types](https://github.com/facebook/prop-types) - Verificação de tipo em tempo de execução para propriedades (props) React e objetos semelhantes;
 - [Reactotron](https://github.com/infinitered/reactotron) - O Reactotron é um app Desktop para inspecionar projetos em React ou React Native. Está disponível para macOS, Linux e Windows;
@@ -264,7 +264,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações. -->
 
 ## Sobre
 
-Follow me on Twitter: [@samuelmataraso](https://twitter.com/samuelmataraso)
+Me segue lá no Twitter: [@samuelmataraso](https://twitter.com/samuelmataraso)
 
 <a href="https://twitter.com/samuelmataraso" target="_blank">
 <img src="https://twitter.com/samuelmataraso/profile_image?size=original" height="100" /></a>
